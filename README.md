@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Humail-Nawaz 
-- 🌱 I’m currently learning RISC-V core designs 
+   I’m currently learning chipyard. 
 - 📫 How to reach me : humailnawaz36@gmail.com
 
 
